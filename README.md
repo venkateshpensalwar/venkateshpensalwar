@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/venkatesh-pensalwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venkatesh-pensalwar" height="30" width="30" /></a>
 <a href="https://medium.com/@venkateshpensalwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@venkateshpensalwar" height="30" width="30" /></a>
+<a href="https://medium.com/@venkateshpensalwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@venkatesh7218" height="30" width="30" /></a>
 </p>
