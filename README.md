@@ -2,8 +2,8 @@
 
 Hi, I'm venkatesh, a passionate learner from India.
 
-🌱 I’m currently learning AWS & Flutter
-📫 How to reach me: venkateshpensalwar@gmail.com
+*🌱 I’m currently learning AWS & Flutter.
+*📫 How to reach me: venkateshpensalwar@gmail.com
 <!-- 
 **venkateshpensalwar/venkateshpensalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
