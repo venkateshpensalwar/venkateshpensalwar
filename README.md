@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there I'm venkatesh! 👋
 
-<!--
+Hi, I'm venkatesh, a passionate learner from India.
+
+🌱 I’m currently learning AWS & Flutter
+📫 How to reach me: venkateshpensalwar@gmail.com
+<!-- 
 **venkateshpensalwar/venkateshpensalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshpensalwar&layout=compact&?hide=Jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshpensalwar&layout=compact&?hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![venkatesh's github stats](https://github-readme-stats.vercel.app/api?username=venkateshpensalwar)](https://github.com/anuraghazra/github-readme-stats)
