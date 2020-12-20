@@ -2,7 +2,7 @@
 
 Hi, I'm venkatesh, a passionate learner from India.
 
-* 🌱 I’m currently learning AWS & Flutter.
+* 🌱 I’m currently learning Under ARTH- the school of technology.
 * 📫 How to reach me: venkateshpensalwar@gmail.com
 * 📝 I regulary write articles on [Medium.com](https://medium.com/@venkateshpensalwar)
 
