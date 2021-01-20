@@ -7,7 +7,8 @@ Hi, I'm venkatesh, a passionate learner from India.
 * 📝 I regulary write articles on [Medium.com](https://medium.com/@venkateshpensalwar)
 
 
-<p align="center">
+#### Languages and Tools:
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
