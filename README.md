@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshpensalwar&langs_count=8&layout=compact)
-![venkatesh's github stats](https://github-readme-stats.vercel.app/api?username=venkateshpensalwar&show_icons=true)
+![venkatesh's github stats](https://github-readme-stats.vercel.app/api?username=venkateshpensalwar&show_icons=true&theme=vue)
 
 
 
