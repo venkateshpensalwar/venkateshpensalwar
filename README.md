@@ -3,11 +3,12 @@
 Hi, I'm venkatesh, a passionate learner from India.
 
 * 🌱 I’m currently learning Under ARTH- the school of technology.
+* 🔭 I’m currently working on RedHat Ansible
 * 📫 How to reach me: venkateshpensalwar@gmail.com
 * 📝 I regulary write articles on [Medium.com](https://medium.com/@venkateshpensalwar)
 
 
-#### Languages and Tools:
+### Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
