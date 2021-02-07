@@ -1,12 +1,45 @@
-### Hi there I'm venkatesh! 👋
+<h1 align='center'>
+ <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width=300/>
+ <br/>
+Hi there 👋 I'm venkatesh 👨‍💻
+</h1>
 
-Hi, I'm venkatesh, a passionate learner from India.
+<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<br/>
+ <em><b>- Henry Ford</b></em>
+<br><br/>
+<a href="https://twitter.com/venkatesh7218"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+/></a>
+<a href="https://venkateshpensalwar.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+/></a>
+<a href="https://www.linkedin.com/in/venkatesh-pensalwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/></a>
+</p>
 
-* 🌱 I’m currently learning Under ARTH- the school of technology.
-* 🔭 I’m currently working on RedHat Ansible
-* 📫 How to reach me: venkateshpensalwar@gmail.com
-* 📝 I regulary write articles on [Medium.com](https://medium.com/@venkateshpensalwar)
 
+
+
+
+<p align='center'>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=venkateshpensalwar&show_icons=true&theme=dark"  /></a>
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201050TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align='center'>
+📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
+</p>
+
+<details>
+  <summary>📃 My Resume</summary>
+ 
+  </details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,34 +57,9 @@ Hi, I'm venkatesh, a passionate learner from India.
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </p>
 
-<!-- 
-**venkateshpensalwar/venkateshpensalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![venkatesh's github stats](https://github-readme-stats.vercel.app/api?username=venkateshpensalwar&show_icons=true)
-
-
-
-<h3>Connect with me</h3>
-
-<a href="https://twitter.com/venkatesh7218"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-/>
-<a href="https://venkateshpensalwar.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-/>
-<a href="https://www.linkedin.com/in/venkatesh-pensalwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
-
-
-
+<!-----
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/venkatesh/count.svg" />
+</p>---->
