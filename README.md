@@ -63,3 +63,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/venkatesh/count.svg" />
 </p>---->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
