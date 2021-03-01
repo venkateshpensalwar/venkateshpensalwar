@@ -36,10 +36,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
 </p>
 
-<details>
-  <summary>📃 My Resume</summary>
- 
-  </details>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,4 +59,8 @@ Hi there 👋 I'm venkatesh 👨‍💻
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/venkatesh/count.svg" />
+  <details>
+  <summary>📃 My Resume</summary>
+ 
+  </details>
 </p>---->
