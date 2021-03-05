@@ -36,7 +36,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
 </p>
 
-## Blog posts
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -58,12 +58,8 @@ Hi there 👋 I'm venkatesh 👨‍💻
 </p>
 
 
-<!-----
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/venkatesh/count.svg" />
-  <details>
-  <summary>📃 My Resume</summary>
- 
-  </details>
-</p>---->
+</p>
