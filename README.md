@@ -36,7 +36,9 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
 </p>
 
-
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
