@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [UDP Chatting App Using Socket Programming](https://medium.com/swlh/udp-chatting-app-using-socket-programming-f6b315f44a6b?source=rss-e2480de02788------2)
 - [HAProxy On AWS Using Ansible](https://medium.com/@venkateshpensalwar/haproxy-on-aws-using-ansible-a2e1ec74bc1d?source=rss-e2480de02788------2)
 - [Neural Networks](https://medium.com/@venkateshpensalwar/neural-networks-9fba00ad1b10?source=rss-e2480de02788------2)
 - [Azure Kubernetes Service](https://medium.com/@venkateshpensalwar/azure-kubernetes-service-ad4e834b1782?source=rss-e2480de02788------2)
 - [Amazon SQS Case Study](https://medium.com/@venkateshpensalwar/amazon-sqs-case-study-65d935cdf791?source=rss-e2480de02788------2)
-- [WordPress Website On AWS RDS And EC2](https://medium.com/nerd-for-tech/wordpress-website-on-aws-rds-and-ec2-59166cb5384c?source=rss-e2480de02788------2)
 <!-- BLOG-POST-LIST:END -->
 
 
