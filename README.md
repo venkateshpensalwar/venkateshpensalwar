@@ -38,7 +38,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Run GUI Application On Docker](https://medium.com/@venkateshpensalwar/run-gui-application-on-docker-23ccf7946f11?source=rss-e2480de02788------2)
+- [Run GUI Application On Docker](https://medium.com/swlh/run-gui-application-on-docker-23ccf7946f11?source=rss-e2480de02788------2)
 - [Openshift Case Study](https://medium.com/@venkateshpensalwar/openshift-case-study-87a6649bc518?source=rss-e2480de02788------2)
 - [Jenkins Case Study](https://medium.com/@venkateshpensalwar/jenkins-case-study-bd91e9791b2?source=rss-e2480de02788------2)
 - [UDP Chatting App Using Socket Programming](https://medium.com/swlh/udp-chatting-app-using-socket-programming-f6b315f44a6b?source=rss-e2480de02788------2)
