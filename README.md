@@ -38,11 +38,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Run GUI Application On Docker](https://medium.com/swlh/run-gui-application-on-docker-23ccf7946f11?source=rss-e2480de02788------2)
-- [Openshift Case Study](https://medium.com/@venkateshpensalwar/openshift-case-study-87a6649bc518?source=rss-e2480de02788------2)
-- [Jenkins Case Study](https://medium.com/@venkateshpensalwar/jenkins-case-study-bd91e9791b2?source=rss-e2480de02788------2)
-- [UDP Chatting App Using Socket Programming](https://medium.com/swlh/udp-chatting-app-using-socket-programming-f6b315f44a6b?source=rss-e2480de02788------2)
-- [HAProxy On AWS Using Ansible](https://medium.com/@venkateshpensalwar/haproxy-on-aws-using-ansible-a2e1ec74bc1d?source=rss-e2480de02788------2)
+- [Use SSH To Connect To A Remote Server In Linux](https://all-about-devops.blogspot.com/2021/03/use-ssh-to-connect-to-remote-server-in_21.html)
 <!-- BLOG-POST-LIST:END -->
 
 
