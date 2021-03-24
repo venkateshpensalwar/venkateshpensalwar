@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Delete undeletable files easily](https://all-about-devops.blogspot.com/2021/03/lock-hunter-foolproof-file-unlocker-it.html)
+- [Nasa Case Study](https://all-about-devops.blogspot.com/2021/03/nasa-case-study.html)
+- [Configure HAPROXY Using Ansible Automation Tool](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible.html)
+- [HAProxy On AWS Using Ansible](https://all-about-devops.blogspot.com/2021/03/haproxy-on-aws-using-ansible.html)
 - [Azure Kubernetes Service Case Study](https://all-about-devops.blogspot.com/2021/03/azure-kubernetes-service-case-study.html)
 - [UDP Chatting App Using Socket Programming](https://all-about-devops.blogspot.com/2021/03/udp-chatting-app-using-socket.html)
-- [Run GUI Application On Docker](https://all-about-devops.blogspot.com/2021/03/run-gui-application-on-docker.html)
-- [Use SSH To Connect To A Remote Server In Linux](https://all-about-devops.blogspot.com/2021/03/use-ssh-to-connect-to-remote-server-in_21.html)
 <!-- BLOG-POST-LIST:END -->
 
 
