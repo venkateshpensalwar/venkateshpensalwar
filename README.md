@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Big Data & Hadoop](https://all-about-devops.blogspot.com/2021/03/introduction-to-big-data-hadoop.html)
+- [Configure Hadoop cluster using ansible playbooks](https://all-about-devops.blogspot.com/2021/03/configure-hadoop-cluster-using-ansible.html)
+- [Make web server idempotent with ansible](https://all-about-devops.blogspot.com/2021/03/make-web-server-idempotent-with-ansible.html)
 - [Nasa Case Study](https://all-about-devops.blogspot.com/2021/03/nasa-case-study.html)
 - [Configure HAPROXY Using Ansible Automation Tool](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible.html)
-- [HAProxy On AWS Using Ansible](https://all-about-devops.blogspot.com/2021/03/haproxy-on-aws-using-ansible.html)
-- [Azure Kubernetes Service Case Study](https://all-about-devops.blogspot.com/2021/03/azure-kubernetes-service-case-study.html)
-- [UDP Chatting App Using Socket Programming](https://all-about-devops.blogspot.com/2021/03/udp-chatting-app-using-socket.html)
 <!-- BLOG-POST-LIST:END -->
 
 
