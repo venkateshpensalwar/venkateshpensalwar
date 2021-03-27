@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [CERN Case Study](https://all-about-devops.blogspot.com/2021/03/cern-case-study.html)
+- [Neural Networks](https://all-about-devops.blogspot.com/2021/03/neural-networks.html)
+- [How ML/AI Benefits Netflix](https://all-about-devops.blogspot.com/2021/03/how-mlai-benefits-netflix.html)
 - [Launch Amazon AWS Instance Using AWS CLI](https://all-about-devops.blogspot.com/2021/03/launch-amazon-aws-instance-using-aws-cli.html)
 - [netflix Case Study](https://all-about-devops.blogspot.com/2021/03/netfilex-case-study.html)
-- [Introduction to Big Data & Hadoop](https://all-about-devops.blogspot.com/2021/03/introduction-to-big-data-hadoop.html)
-- [Configure Hadoop cluster using ansible playbooks](https://all-about-devops.blogspot.com/2021/03/configure-hadoop-cluster-using-ansible.html)
-- [Make web server idempotent with ansible](https://all-about-devops.blogspot.com/2021/03/make-web-server-idempotent-with-ansible.html)
 <!-- BLOG-POST-LIST:END -->
 
 
