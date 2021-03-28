@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Setup Python Interpreter On Docker Container](https://all-about-devops.blogspot.com/2021/03/in-last-blog-we-have-already-seen-how.html)
+- [Setup an Apache Web Server in a Docker Container](https://all-about-devops.blogspot.com/2021/03/setup-apache-web-server-in-docker.html)
 - [CERN Case Study](https://all-about-devops.blogspot.com/2021/03/cern-case-study.html)
 - [Neural Networks](https://all-about-devops.blogspot.com/2021/03/neural-networks.html)
 - [How ML/AI Benefits Netflix](https://all-about-devops.blogspot.com/2021/03/how-mlai-benefits-netflix.html)
-- [Launch Amazon AWS Instance Using AWS CLI](https://all-about-devops.blogspot.com/2021/03/launch-amazon-aws-instance-using-aws-cli.html)
-- [netflix Case Study](https://all-about-devops.blogspot.com/2021/03/netfilex-case-study.html)
 <!-- BLOG-POST-LIST:END -->
 
 
