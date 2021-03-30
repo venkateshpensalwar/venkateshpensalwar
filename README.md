@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Automating LVM Using Python Script](https://all-about-devops.blogspot.com/2021/03/automating-lvm-using-python-script.html)
+- [understand core networking: route table](https://all-about-devops.blogspot.com/2021/03/understand-core-networking-routing.html)
 - [Python Automation Manager](https://all-about-devops.blogspot.com/2021/03/python-automation-manager.html)
 - [Create a Custom Network Topology Using Only Routing Table](https://all-about-devops.blogspot.com/2021/03/network-topology-using-route-table.html)
 - [Create An Ansible playbook Which Dynamically Loads Variable File Named the Same As Os_Name And Configure The Os](https://all-about-devops.blogspot.com/2021/03/dynamically-load-variables-ansible.html)
-- [Retrieve Container IP and Update Ansible Inventory Using Ansible](https://all-about-devops.blogspot.com/2021/03/retrive-container-ip-using-ansible.html)
-- [Setup Python Interpreter On Docker Container](https://all-about-devops.blogspot.com/2021/03/in-last-blog-we-have-already-seen-how.html)
 <!-- BLOG-POST-LIST:END -->
 
 
