@@ -39,7 +39,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Configure HAProxy Using Ansible Roles](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible-roles.html)
-- [Increase And Decrease Size Of Static Linux partitions](https://all-about-devops.blogspot.com/2021/03/static-Linux partitions.html)
+- [Increase And Decrease Size Of Static Linux partitions](https://all-about-devops.blogspot.com/2021/03/static-Linux%20partitions.html)
 - [Automating LVM Using Python Script](https://all-about-devops.blogspot.com/2021/03/automating-lvm-using-python-script.html)
 - [understand core networking: route table](https://all-about-devops.blogspot.com/2021/03/understand-core-networking-routing.html)
 - [Python Automation Manager](https://all-about-devops.blogspot.com/2021/03/python-automation-manager.html)
