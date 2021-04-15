@@ -38,11 +38,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to create kubernetes multinode cluster](https://all-about-devops.blogspot.com/2021/04/how-to-create-kubernetes-multinode.html)
 - [configure haproxy Using ansible roles](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible-roles.html)
 - [Increase And Decrease Size Of Static Linux partitions](https://all-about-devops.blogspot.com/2021/03/static-Linux partitions.html)
 - [Automating LVM Using Python Script](https://all-about-devops.blogspot.com/2021/03/automating-lvm-using-python-script.html)
 - [understand core networking: route table](https://all-about-devops.blogspot.com/2021/03/understand-core-networking-routing.html)
-- [Python Automation Manager](https://all-about-devops.blogspot.com/2021/03/python-automation-manager.html)
 <!-- BLOG-POST-LIST:END -->
 
 
