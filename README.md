@@ -35,13 +35,13 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
 </p>
 
-📕 **Latest Blog Posts**
+:zap: **Latest Blog Posts** :zap:
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks](https://medium.com/@venkateshpensalwar/neural-networks-9fba00ad1b10?source=rss-e2480de02788------2)
-- [Azure Kubernetes Service](https://medium.com/@venkateshpensalwar/azure-kubernetes-service-ad4e834b1782?source=rss-e2480de02788------2)
-- [Amazon SQS Case Study](https://medium.com/@venkateshpensalwar/amazon-sqs-case-study-65d935cdf791?source=rss-e2480de02788------2)
-- [WordPress Website On AWS RDS And EC2](https://medium.com/nerd-for-tech/wordpress-website-on-aws-rds-and-ec2-59166cb5384c?source=rss-e2480de02788------2)
-- [Retrieve Container IP and Update Ansible Inventory Using Ansible](https://medium.com/@venkateshpensalwar/retrieve-container-ip-and-update-ansible-inventory-using-ansible-a7eb8b76f8c0?source=rss-e2480de02788------2)
+- [How to create kubernetes multinode cluster](https://all-about-devops.blogspot.com/2021/04/how-to-create-kubernetes-multinode.html)
+- [configure haproxy Using ansible roles](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible-roles.html)
+- [Increase And Decrease Size Of Static Linux partitions](https://all-about-devops.blogspot.com/2021/03/static-Linux partitions.html)
+- [Automating LVM Using Python Script](https://all-about-devops.blogspot.com/2021/03/automating-lvm-using-python-script.html)
+- [understand core networking: route table](https://all-about-devops.blogspot.com/2021/03/understand-core-networking-routing.html)
 <!-- BLOG-POST-LIST:END -->
 
 
