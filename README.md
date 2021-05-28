@@ -35,7 +35,7 @@ Hi there 👋 I'm venkatesh 👨‍💻
 📫 How to reach me: <a href="mailto:venkateshpensalwar@gmail.com">venkateshpensalwar@gmail.com</a>
 </p>
 
-📕 **Latest Blog Posts**
+:zap: **Latest Blog Posts** :zap:
 <!-- BLOG-POST-LIST:START -->
 - [How to create kubernetes multinode cluster](https://all-about-devops.blogspot.com/2021/04/how-to-create-kubernetes-multinode.html)
 - [configure haproxy Using ansible roles](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible-roles.html)
