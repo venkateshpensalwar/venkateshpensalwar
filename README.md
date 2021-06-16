@@ -37,11 +37,11 @@ Hi there 👋 I'm venkatesh 👨‍💻
 
 :zap: **Latest Blog Posts** :zap:
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Aggregation pipelines and Map-Reduce](https://all-about-devops.blogspot.com/2021/06/mongodb-aggregation-pipelines-and-map.html)
 - [CURD Operations using Flask and MongoDB](https://all-about-devops.blogspot.com/2021/05/curd-operations-using-flask-and-mongodb.html)
 - [EA Case study](https://all-about-devops.blogspot.com/2021/05/ea-case-study.html)
 - [How to create kubernetes multinode cluster](https://all-about-devops.blogspot.com/2021/04/how-to-create-kubernetes-multinode.html)
 - [configure haproxy Using ansible roles](https://all-about-devops.blogspot.com/2021/03/configure-haproxy-using-ansible-roles.html)
-- [Increase And Decrease Size Of Static Linux partitions](https://all-about-devops.blogspot.com/2021/03/static-Linux partitions.html)
 <!-- BLOG-POST-LIST:END -->
 
 
